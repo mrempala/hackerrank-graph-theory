@@ -3,14 +3,11 @@ hackerrank-graph-theory
 
 The first 15 graph theory problems from hacker rank.
 
-Status:
--------
+#Status:
 
-Complete:
----------
+##Complete:
 
-Incomplete:
------------
+##Incomplete:
 
 1.  Even Tree
 
