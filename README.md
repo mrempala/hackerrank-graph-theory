@@ -11,9 +11,9 @@ The first 15 graph theory problems from hacker rank.
 
 2.  Snakes and Ladders: The Quickest Way Up
  
-##Incomplete:
-
 3.  Bead Ornaments
+
+##Incomplete:
 
 4.  Savita And Friends
 
