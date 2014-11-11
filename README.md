@@ -13,13 +13,13 @@ The first 15 graph theory problems from hacker rank.
  
 3.  Bead Ornaments
 
+6.  A Journey to the Moon
+
 ##Incomplete:
 
 4.  Savita And Friends
 
 5.  Clique
-
-6.  A Journey to the Moon
 
 7.  Crab Graphs
 
